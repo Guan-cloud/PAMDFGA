@@ -1,0 +1,420 @@
+[{
+	"sentence": ["The", "Israeli", "C7", "-", "deficient", "cases", "all", "share", "a", "C7", "haplotype", "and", "are", "homozygous", "for", "a", "mis", "-", "sense", "mutation", "in", "exon", "9", "."],
+	"ner": [{
+		"index": [2, 3, 4],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["However", ",", "one", "individual", "is", "heterozygous", "for", "markers", "at", "adjacent", "C6", "loci", ",", "showing", "that", "there", "has", "been", "an", "intergenic", "recombination", "and", "suggesting", "that", "the", "deficiency", "mutation", "is", "of", "appreciable", "antiquity", ".", "."],
+	"ner": []
+},{
+	"sentence": ["Molecular", "heterogeneity", "of", "classical", "and", "Duarte", "galactosemia", ":", "mutation", "analysis", "by", "denaturing", "gradient", "gel", "electrophoresis", "."],
+	"ner": [{
+		"index": [3, 4, 5, 6],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Classical", "galactosemia", "is", "caused", "by", "one", "common", "missense", "mutation", "(", "Q188R", ")", "and", "by", "several", "rare", "mutations", "in", "the", "galactose", "-", "1", "-", "phosphate", "uridyltransferase", "(", "GALT", ")", "gene", "."],
+	"ner": [{
+		"index": [0, 1],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["The", "most", "common", "variant", "of", "GALT", ",", "the", "Duarte", "variant", ",", "occurs", "as", "two", "types", ",", "Duarte", "-", "1", "(", "D", "-", "1", ")", "and", "Duarte", "-", "2", "(", "D", "-", "2", ")", ",", "both", "of", "which", "carry", "the", "sequence", "change", "N314D", "."],
+	"ner": []
+},{
+	"sentence": ["D", "-", "1", "increases", ",", "whereas", "D", "-", "2", "decreases", "GALT", "activity", "."],
+	"ner": []
+},{
+	"sentence": ["To", "study", "the", "molecular", "genetics", "of", "classical", "and", "Duarte", "galactosemia", ",", "we", "analyzed", "the", "GALT", "mutations", "in", "30", "families", "with", "classical", "galactosemia", ",", "in", "10", "families", "with", "the", "D", "-", "2", "variant", "and", "in", "3", "individuals", "carrying", "the", "D", "-", "1", "allele", "by", "denaturing", "gradient", "gel", "electrophoresis", "(", "DGGE", ")", "."],
+	"ner": [{
+		"index": [6, 7, 8, 9],
+		"type": "Disease"
+	}, {
+		"index": [6, 9],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["DGGE", "detected", "59", "of", "the", "60", "classical", "galactosemia", "alleles", "."],
+	"ner": [{
+		"index": [7],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Q188R", "accounted", "for", "60", "%", ",", "K285N", "accounted", "for", "28", "%", "of", "these", "alleles", "."],
+	"ner": []
+},{
+	"sentence": ["Eight", "novel", "candidate", "galactosemia", "mutations", "were", "found", "."],
+	"ner": [{
+		"index": [3],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["On", "all", "D", "-", "2", "alleles", "N314D", "occurred", "in", "cis", "with", "two", "intronic", "sequence", "changes", ",", "on", "the", "D", "-", "1", "alleles", "in", "cis", "with", "a", "neutral", "mutation", "in", "exon", "7", "."],
+	"ner": []
+},{
+	"sentence": ["We", "conclude", "that", "the", "mutations", "causing", "galactosemia", "are", "highly", "heterogeneous", "and", "that", "K285N", "is", "a", "second", "common", "galactosemia", "mutation", "in", "our", "population", ".", "."],
+	"ner": [{
+		"index": [6],
+		"type": "Disease"
+	}, {
+		"index": [6],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Isolation", "of", "full", "-", "length", "ATM", "cDNA", "and", "correction", "of", "the", "ataxia", "-", "telangiectasia", "cellular", "phenotype", "."],
+	"ner": [{
+		"index": [11, 3, 13],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["A", "gene", "mutated", "in", "the", "human", "genetic", "disorder", "ataxia", "-", "telangiectasia", "(", "A", "-", "T", ")", ",", "ATM", ",", "was", "recently", "identified", "by", "positional", "cloning", "."],
+	"ner": [{
+		"index": [6, 7],
+		"type": "Disease"
+	}, {
+		"index": [8, 9, 10],
+		"type": "Disease"
+	}, {
+		"index": [0, 9, 14],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["ATM", "is", "a", "member", "of", "the", "phosphatidylinositol", "-", "3", "-", "kinase", "superfamily", ",", "some", "of", "which", "are", "protein", "kinases", "and", "appear", "to", "have", "important", "roles", "in", "cell", "cycle", "control", "and", "radiation", "signal", "transduction", "."],
+	"ner": []
+},{
+	"sentence": ["We", "describe", "herein", ",", "to", "our", "knowledge", ",", "for", "the", "first", "time", ",", "the", "cloning", "of", "a", "full", "-", "length", "cDNA", "for", "ATM", "and", "correction", "of", "multiple", "aspects", "of", "the", "radio", "-", "sensitive", "phenotype", "of", "A", "-", "T", "cells", "by", "transfection", "with", "this", "cDNA", "."],
+	"ner": [{
+		"index": [35, 18, 37],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Overexpression", "of", "ATM", "cDNA", "in", "A", "-", "T", "cells", "enhanced", "the", "survival", "of", "these", "cells", "in", "response", "to", "radiation", "exposure", ",", "decreased", "radiation", "-", "induced", "chromosome", "aberrations", ",", "reduced", "radio", "-", "resistant", "DNA", "synthesis", ",", "and", "partially", "corrected", "defective", "cell", "cycle", "checkpoints", "and", "induction", "of", "stress", "-", "activated", "protein", "kinase", "."],
+	"ner": [{
+		"index": [5, 6, 7],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["This", "correction", "of", "the", "defects", "in", "A", "-", "T", "cells", "provides", "further", "evidence", "of", "the", "multiplicity", "of", "effector", "functions", "of", "the", "ATM", "protein", "and", "suggests", "possible", "approaches", "to", "gene", "therapy", ".", "."],
+	"ner": [{
+		"index": [6, 7, 8],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Fusion", "genes", "resulting", "from", "alternative", "chromosomal", "translocations", "are", "overexpressed", "by", "gene", "-", "specific", "mechanisms", "in", "alveolar", "rhabdomyosarcoma", "."],
+	"ner": [{
+		"index": [15, 16],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Chromosomal", "translocations", "identified", "in", "hematopoietic", "and", "solid", "tumors", "result", "in", "deregulated", "expression", "of", "protooncogenes", "or", "creation", "of", "chimeric", "proteins", "with", "tumorigenic", "potential", "."],
+	"ner": [{
+		"index": [4, 5, 6, 7],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["In", "the", "pediatric", "solid", "tumor", "alveolar", "rhabdomyosarcoma", ",", "a", "consistent", "t", "(", "2", ";", "13", ")", "(", "q35", ";", "q14", ")", "or", "variant", "t", "(", "1", ";", "13", ")", "(", "p36", ";", "q14", ")", "translocation", "generates", "PAX3", "-", "FKHR", "or", "PAX7", "-", "FKHR", "fusion", "proteins", ",", "respectively", "."],
+	"ner": [{
+		"index": [3, 4],
+		"type": "Disease"
+	}, {
+		"index": [5, 6],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["In", "this", "report", ",", "we", "demonstrate", "that", "in", "addition", "to", "functional", "alterations", "these", "translocations", "are", "associated", "with", "fusion", "product", "overexpression", "."],
+	"ner": []
+},{
+	"sentence": ["Furthermore", ",", "PAX3", "-", "FKHR", "and", "PAX7", "-", "FKHR", "overexpression", "occurs", "by", "distinct", "mechanisms", "."],
+	"ner": []
+},{
+	"sentence": ["Transcription", "of", "PAX3", "-", "FKHR", "is", "increased", "relative", "to", "wild", "-", "type", "PAX3", "by", "a", "copy", "number", "-", "independent", "process", "."],
+	"ner": []
+},{
+	"sentence": ["In", "contrast", ",", "PAX7", "-", "FKHR", "overexpression", "results", "from", "fusion", "gene", "amplification", "."],
+	"ner": []
+},{
+	"sentence": ["Thus", ",", "gene", "-", "specific", "mechanisms", "were", "selected", "to", "overexpress", "PAX3", "-", "FKHR", "and", "PAX7", "-", "FKHR", "in", "alveolar", "rhabdomyosarcoma", ",", "presumably", "due", "to", "differences", "in", "regulation", "between", "the", "wild", "-", "type", "loci", "."],
+	"ner": [{
+		"index": [18, 19],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["We", "postulate", "that", "these", "overexpression", "mechanisms", "ensure", "a", "critical", "level", "of", "gene", "product", "for", "the", "oncogenic", "effects", "of", "these", "fusions", ".", "."],
+	"ner": []
+},{
+	"sentence": ["atm", "and", "p53", "cooperate", "in", "apoptosis", "and", "suppression", "of", "tumorigenesis", ",", "but", "not", "in", "resistance", "to", "acute", "radiation", "toxicity", "."],
+	"ner": [{
+		"index": [16, 17, 18],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Mutations", "in", "atm", "and", "p53", "cause", "the", "human", "cancer", "-", "associated", "diseases", "ataxia", "-", "telangiectasia", "and", "Li", "-", "Fraumeni", "syndrome", ",", "respectively", "."],
+	"ner": [{
+		"index": [8, 9, 10, 11],
+		"type": "Disease"
+	}, {
+		"index": [12, 9, 14],
+		"type": "Disease"
+	}, {
+		"index": [16, 9, 18, 19],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["The", "two", "genes", "are", "believed", "to", "interact", "in", "a", "number", "of", "pathways", ",", "including", "regulation", "of", "DNA", "damage", "-", "induced", "cell", "-", "cycle", "checkpoints", ",", "apoptosis", "and", "radiation", "sensitivity", ",", "and", "cellular", "proliferation", "."],
+	"ner": []
+},{
+	"sentence": ["Atm", "-", "null", "mice", ",", "as", "well", "as", "those", "null", "for", "p53", ",", "develop", "mainly", "T", "-", "cell", "lymphomas", ",", "supporting", "the", "view", "that", "these", "genes", "have", "similar", "roles", "in", "thymocyte", "development", "."],
+	"ner": [{
+		"index": [15, 1, 17, 18],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["To", "study", "the", "interactions", "of", "these", "two", "genes", "on", "an", "organismal", "level", ",", "we", "bred", "mice", "heterozygous", "for", "null", "alleles", "of", "both", "atm", "and", "p53", "to", "produce", "all", "genotypic", "combinations", "."],
+	"ner": []
+},{
+	"sentence": ["Mice", "doubly", "null", "for", "atm", "and", "p53", "exhibited", "a", "dramatic", "acceleration", "of", "tumour", "formation", "relative", "to", "singly", "null", "mice", ",", "indicating", "that", "both", "genes", "collaborate", "in", "a", "significant", "manner", "to", "prevent", "tumorigenesis", "."],
+	"ner": [{
+		"index": [12],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["With", "respect", "to", "their", "roles", "in", "apoptosis", ",", "loss", "of", "atm", "rendered", "thymocytes", "only", "partly", "resistant", "to", "irradiation", "-", "induced", "apoptosis", ",", "whereas", "additional", "loss", "of", "p53", "engendered", "complete", "resistance", "."],
+	"ner": []
+},{
+	"sentence": ["This", "implies", "that", "the", "irradiation", "-", "induced", "atm", "and", "p53", "apoptotic", "pathways", "are", "not", "completely", "congruent", "."],
+	"ner": []
+},{
+	"sentence": ["Finally", "-", "and", "in", "contrast", "to", "prior", "predictions", "-", "atm", "and", "p53", "do", "not", "appear", "to", "interact", "in", "acute", "radiation", "toxicity", ",", "suggesting", "a", "separate", "atm", "effector", "pathway", "for", "this", "DNA", "damage", "response", "and", "having", "implications", "for", "the", "prognosis", "and", "treatment", "of", "human", "tumours", ".", "."],
+	"ner": [{
+		"index": [18, 19, 20],
+		"type": "Disease"
+	}, {
+		"index": [43],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Trinucleotide", "repeat", "expansion", "at", "the", "myotonic", "dystrophy", "locus", "reduces", "expression", "of", "DMAHP", "."],
+	"ner": [{
+		"index": [5, 6],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Myotonic", "dystrophy", ",", "or", "dystrophia", "myotonica", "(", "DM", ")", ",", "is", "an", "autosomal", "dominant", "multisystem", "disorder", "caused", "by", "the", "expansion", "of", "a", "CTG", "trinucleotide", "repeat", "in", "the", "3", "untranslated", "region", "of", "the", "DMPK", "protein", "kinase", "gene", "on", "chromosome", "19q13", "."],
+	"ner": [{
+		"index": [0, 1],
+		"type": "Disease"
+	}, {
+		"index": [4, 5],
+		"type": "Disease"
+	}, {
+		"index": [7],
+		"type": "Disease"
+	}, {
+		"index": [12, 13, 14, 15],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["3", "(", "refs", "1", "-", "3", ")", "."],
+	"ner": []
+},{
+	"sentence": ["Although", "the", "DM", "mutation", "was", "identified", "more", "than", "five", "years", "ago", ",", "the", "pathogenic", "mechanisms", "underlying", "this", "most", "prevalent", "form", "of", "hereditary", "adult", "neuromuscular", "disease", "remain", "elusive", "."],
+	"ner": [{
+		"index": [2],
+		"type": "Disease"
+	}, {
+		"index": [23, 24],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Previous", "work", "from", "our", "laboratory", "demonstrated", "that", "a", "DNase", "l", "-", "hypersensitive", "site", "located", "adjacent", "to", "the", "repeats", "on", "the", "wild", "-", "type", "allele", "is", "eliminated", "by", "repeat", "expansion", ",", "indicating", "that", "large", "CTG", "-", "repeat", "arrays", "may", "be", "associated", "with", "a", "local", "chromatin", "environment", "that", "represses", "gene", "expression", "."],
+	"ner": []
+},{
+	"sentence": ["Here", "we", "report", "that", "the", "hypersensitive", "site", "contains", "an", "enhancer", "element", "that", "regulates", "transcription", "of", "the", "adjacent", "DMAHP", "homeobox", "gene", "."],
+	"ner": []
+},{
+	"sentence": ["Analysis", "of", "DMAHP", "expression", "in", "the", "cells", "of", "DM", "patients", "with", "loss", "of", "the", "hypersensitive", "site", "revealed", "a", "two", "-", "to", "fourfold", "reduction", "in", "steady", "-", "state", "DMAHP", "transcript", "levels", "relative", "to", "wild", "-", "type", "controls", "."],
+	"ner": [{
+		"index": [8],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Allele", "-", "specific", "analysis", "of", "DMAHP", "expression", "showed", "that", "steady", "-", "state", "transcript", "levels", "from", "the", "expanded", "allele", "were", "greatly", "reduced", "in", "comparison", "to", "those", "from", "the", "wild", "-", "type", "allele", "."],
+	"ner": []
+},{
+	"sentence": ["Together", ",", "these", "results", "demonstrate", "that", "CTG", "-", "repeat", "expansions", "can", "suppress", "local", "gene", "expression", "and", "implicate", "DMAHP", "in", "DM", "pathogenesis", "."],
+	"ner": [{
+		"index": [19],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Constitutively", "methylated", "CpG", "dinucleotides", "as", "mutation", "hot", "spots", "in", "the", "retinoblastoma", "gene", "(", "RB1", ")", "."],
+	"ner": [{
+		"index": [10],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["A", "wide", "spectrum", "of", "mutations", ",", "ranging", "from", "point", "mutations", "to", "large", "deletions", ",", "have", "been", "described", "in", "the", "retinoblastoma", "gene", "(", "RB1", ")", "."],
+	"ner": [{
+		"index": [19],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Mutations", "have", "been", "found", "throughout", "the", "gene", ";", "however", ",", "these", "genetic", "alterations", "do", "not", "appear", "to", "be", "homogeneously", "distributed", "."],
+	"ner": []
+},{
+	"sentence": ["In", "particular", ",", "a", "significant", "proportion", "of", "disease", "-", "causing", "mutations", "results", "in", "the", "premature", "termination", "of", "protein", "synthesis", ",", "and", "the", "majority", "of", "these", "mutations", "occur", "as", "C", "-", "-", ">", "T", "transitions", "at", "CpG", "dinucleotides", "(", "CpGs", ")", "."],
+	"ner": []
+},{
+	"sentence": ["Such", "recurrent", "CpG", "mutations", ",", "including", "those", "found", "in", "RB1", ",", "are", "likely", "the", "result", "of", "the", "deamination", "of", "5", "-", "methylcytosine", "within", "these", "CpGs", "."],
+	"ner": []
+},{
+	"sentence": ["In", "the", "present", "study", ",", "we", "used", "the", "sodiumbisulfite", "conversion", "method", "to", "detect", "cytosine", "methylation", "in", "representative", "exons", "of", "RB1", "."],
+	"ner": []
+},{
+	"sentence": ["We", "analyzed", "DNA", "from", "a", "variety", "of", "tissues", "and", "specifically", "targeted", "CGA", "codons", "in", "RB1", ",", "where", "recurrent", "premature", "termination", "mutations", "have", "been", "reported", "."],
+	"ner": []
+},{
+	"sentence": ["We", "found", "that", "DNA", "methylation", "within", "RB1", "exons", "8", ",", "14", ",", "25", ",", "and", "27", "appeared", "to", "be", "restricted", "to", "CpGs", ",", "including", "six", "CGA", "codons", "."],
+	"ner": []
+},{
+	"sentence": ["Other", "codons", "containing", "methylated", "cytosines", "have", "not", "been", "reported", "to", "be", "mutated", "."],
+	"ner": []
+},{
+	"sentence": ["Therefore", ",", "disease", "-", "causing", "mutations", "at", "CpGs", "in", "RB1", "appear", "to", "be", "determined", "by", "several", "factors", ",", "including", "the", "constitutive", "presence", "of", "DNA", "methylation", "at", "cytosines", "within", "CpGs", ",", "the", "specific", "codon", "within", "which", "the", "methylated", "cytosine", "is", "located", ",", "and", "the", "particular", "region", "of", "the", "gene", "within", "which", "that", "codon", "resides", ".", "."],
+	"ner": []
+},{
+	"sentence": ["The", "von", "Hippel", "-", "Lindau", "tumor", "suppressor", "gene", "product", "interacts", "with", "Sp1", "to", "repress", "vascular", "endothelial", "growth", "factor", "promoter", "activity", "."],
+	"ner": [{
+		"index": [1, 2, 3, 4, 5],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["The", "von", "Hippel", "-", "Lindau", "tumor", "suppressor", "gene", "(", "VHL", ")", "has", "a", "critical", "role", "in", "the", "pathogenesis", "of", "clear", "-", "cell", "renal", "cell", "carcinoma", "(", "RCC", ")", ",", "as", "VHL", "mutations", "have", "been", "found", "in", "both", "von", "Hippel", "-", "Lindau", "disease", "-", "associated", "and", "sporadic", "RCCs", "."],
+	"ner": [{
+		"index": [1, 2, 3, 4, 5],
+		"type": "Disease"
+	}, {
+		"index": [19, 3, 21, 22, 21, 24],
+		"type": "Disease"
+	}, {
+		"index": [26],
+		"type": "Disease"
+	}, {
+		"index": [1, 2, 3, 4, 41, 3, 43, 44, 45, 46],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Recent", "studies", "suggest", "that", "vascular", "endothelial", "growth", "factor", "(", "VEGF", ")", "mRNA", "is", "upregulated", "in", "RCC", "-", "and", "von", "Hippel", "-", "Lindau", "disease", "-", "associated", "tumors", "."],
+	"ner": [{
+		"index": [15, 16, 17, 18, 19, 16, 21, 22, 16, 24, 25],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["We", "have", "therefore", "assessed", "the", "effect", "of", "the", "VHL", "gene", "product", "on", "VEGF", "expression", "."],
+	"ner": []
+},{
+	"sentence": ["VEGF", "promoter", "-", "luciferase", "constructs", "were", "transiently", "cotransfected", "with", "a", "wild", "-", "type", "VHL", "(", "wt", "-", "VHL", ")", "vector", "in", "several", "cell", "lines", ",", "including", "293", "embryonic", "kidney", "and", "RCC", "cell", "lines", "."],
+	"ner": [{
+		"index": [30],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["wt", "-", "VHL", "protein", "inhibited", "VEGF", "promoter", "activity", "in", "a", "dose", "-", "dependent", "manner", "up", "to", "5", "-", "to", "10", "-", "fold", "."],
+	"ner": []
+},{
+	"sentence": ["Deletion", "analysis", "defined", "a", "144", "-", "bp", "region", "of", "the", "VEGF", "promoter", "necessary", "for", "VHL", "repression", "."],
+	"ner": []
+},{
+	"sentence": ["This", "VHL", "-", "responsive", "element", "is", "GC", "rich", "and", "specifically", "binds", "the", "transcription", "factor", "Sp1", "in", "crude", "nuclear", "extracts", "."],
+	"ner": []
+},{
+	"sentence": ["In", "Drosophila", "cells", ",", "cotransfected", "VHL", "represses", "Sp1", "-", "mediated", "activation", "but", "not", "basal", "activity", "of", "the", "VEGF", "promoter", "."],
+	"ner": []
+},{
+	"sentence": ["We", "next", "demonstrated", "in", "coimmunoprecipitates", "that", "VHL", "and", "Sp1", "were", "part", "of", "the", "same", "complex", "and", ",", "by", "using", "a", "glutathione", "-", "S", "-", "transferase", "-", "VHL", "fusion", "protein", "and", "purified", "Sp1", ",", "that", "VHL", "and", "Sp1", "directly", "interact", "."],
+	"ner": []
+},{
+	"sentence": ["Furthermore", ",", "endogenous", "VEGF", "mRNA", "levels", "were", "suppressed", "in", "permanent", "RCC", "cell", "lines", "expressing", "wt", "-", "VHL", ",", "and", "nuclear", "run", "-", "on", "studies", "indicated", "that", "VHL", "regulation", "of", "VEGF", "occurs", "at", "least", "partly", "at", "the", "transcriptional", "level", "."],
+	"ner": [{
+		"index": [10],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["These", "observations", "support", "a", "new", "mechanism", "for", "VHL", "-", "mediated", "transcriptional", "repression", "via", "a", "direct", "inhibitory", "action", "on", "Sp1", "and", "suggest", "that", "loss", "of", "Sp1", "inhibition", "may", "be", "important", "in", "the", "pathogenesis", "of", "von", "Hippel", "-", "Lindau", "disease", "and", "RCC", ".", "."],
+	"ner": [{
+		"index": [33, 34, 8, 36, 37],
+		"type": "Disease"
+	}, {
+		"index": [39],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["Adult", "onset", "globoid", "cell", "leukodystrophy", "(", "Krabbe", "disease", ")", ":", "analysis", "of", "galactosylceramidase", "cDNA", "from", "four", "Japanese", "patients", "."],
+	"ner": [{
+		"index": [0, 1, 2, 3, 4],
+		"type": "Disease"
+	}, {
+		"index": [6, 7],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["We", "examined", "galactosylceramidase", "(", "GALC", ")", "cDNA", "in", "four", "Japanese", "patients", "with", "adult", "onset", "globoid", "cell", "leukodystrophy", "(", "Krabbe", "disease", ";", "AO", "-", "GLD", ")", "by", "polymerase", "chain", "reaction", "/", "single", "-", "strand", "conformation", "polymorphism", "(", "PCR", "-", "SSCP", ")", "analysis", ",", "subsequent", "sequence", "determination", ",", "and", "restriction", "enzyme", "digestion", "of", "PCR", "products", ",", "initial", "symptoms", "were", "the", "onset", "of", "slowly", "progressive", "spastic", "paraplegia", "from", "the", "middle", "of", "the", "second", "decade", ",", "and", "all", "patients", "had", "diminished", "GALC", "activity", "in", "their", "leukocytes", "."],
+	"ner": [{
+		"index": [12, 13, 14, 15, 16],
+		"type": "Disease"
+	}, {
+		"index": [18, 19],
+		"type": "Disease"
+	}, {
+		"index": [21, 22, 23],
+		"type": "Disease"
+	}, {
+		"index": [62, 63],
+		"type": "Disease"
+	}, {
+		"index": [76, 4, 78],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["We", "identified", "three", "missense", "mutations", "(", "I66M", ",", "G270D", ",", "L618S", ")", "and", "one", "exon", "-", "6", "skipping", "(", "535", "-", "573del", ")", "."],
+	"ner": []
+},{
+	"sentence": ["Two", "of", "the", "patients", "had", "only", "the", "I66M", "mutant", "mRNA", ",", "and", "one", "only", "the", "G27OD", "mutant", "mRNA", "."],
+	"ner": []
+},{
+	"sentence": ["The", "fourth", "patient", "carried", "a", "compound", "heterozygous", "mutation", "of", "535", "-", "573del", "and", "L618S", "."],
+	"ner": []
+},{
+	"sentence": ["To", "determine", "the", "enzymatic", "activities", "produced", "by", "these", "mutations", ",", "we", "constructed", "mutated", "GALC", "cDNAs", "and", "expressed", "them", "in", "COS", "-", "1", "cells", "."],
+	"ner": []
+},{
+	"sentence": ["Three", "mutations", ",", "viz", ".", ",", "G270D", ",", "L618S", ",", "and", "exon", "-", "6", "skipping", "(", "535", "-", "573del", ")", ",", "produced", "diminished", "GALC", "activity", "as", "expected", "."],
+	"ner": [{
+		"index": [22, 23, 24],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["The", "I66M", "mutation", "in", "the", "wild", "-", "type", "GALC", "cDNA", "(", "I289", ")", "had", "normal", "activity", ",", "but", "when", "this", "mutation", "and", "the", "V289", "polymorphism", "were", "introduced", "into", "the", "same", "allele", ",", "it", "had", "decreased", "activity", "."],
+	"ner": []
+},{
+	"sentence": ["Thus", ",", "the", "combination", "of", "a", "unique", "mutation", "and", "polymorphism", "causes", "conformational", "change", "in", "the", "GALC", "enzyme", ",", "resulting", "in", "low", "enzymatic", "activity", "."],
+	"ner": []
+},{
+	"sentence": ["AO", "-", "GLD", "mutations", ",", "including", "those", "found", "here", ",", "are", "located", "in", "the", "N", "-", "terminus", "(", "I66M", ",", "G270D", ",", "535", "-", "573del", ")", "or", "C", "-", "terminus", "(", "L618S", ")", "of", "the", "GALC", "enzyme", ",", "whereas", "the", "reported", "mutations", "in", "the", "infantile", "form", "(", "IF", "-", "GLD", ")", "are", "in", "the", "central", "domain", "."],
+	"ner": [{
+		"index": [0, 1, 2],
+		"type": "Disease"
+	}, {
+		"index": [47, 1, 2],
+		"type": "Disease"
+	}]
+},{
+	"sentence": ["This", "difference", "in", "mutation", "sites", "may", "affect", "the", "clinical", "features", "of", "GLD", "."],
+	"ner": [{
+		"index": [11],
+		"type": "Disease"
+	}]
+}
+
+]
